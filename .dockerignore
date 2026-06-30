@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.git/
+.venv/
+venv/
+outputs/batch_results/*.csv
+outputs/reports/*.pdf
+*.zip
+*.log
